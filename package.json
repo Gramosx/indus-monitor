@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-indus-monitor/root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "hardware/*",
+    "app/*",
+    "service/*"
+  ]
+}
